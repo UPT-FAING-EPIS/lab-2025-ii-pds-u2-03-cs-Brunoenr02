@@ -1,0 +1,12 @@
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.sourcelink.json
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+D:\Otros\PATRONES\lab-2025-ii-pds-u2-03-cs-Brunoenr02\Payment\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
