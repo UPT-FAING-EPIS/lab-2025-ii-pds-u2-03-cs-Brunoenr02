@@ -32,6 +32,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Comportamiento/comportamiento.md",
+      "output": {
+        ".html": {
+          "relative_path": "Comportamiento/comportamiento.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Payment/disenio.md",
       "output": {
         ".html": {
