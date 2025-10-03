@@ -4,6 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>ATM_Brunoenr02</PackageId>
+    <RepositoryUrl>https://github.com/UPT-FAING-EPIS/lab-2025-ii-pds-u2-03-cs-Brunoenr02</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/UPT-FAING-EPIS/lab-2025-ii-pds-u2-03-cs-Brunoenr02</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
