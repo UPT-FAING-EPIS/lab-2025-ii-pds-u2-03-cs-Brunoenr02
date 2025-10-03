@@ -6,12 +6,11 @@ namespace ATM.Domain.Tests
     /// </summary>
     public class ATMTests
     {
-        [Test]
-        /// <summary>
-        /// Verifica que el retiro de una cuenta actualiza correctamente el saldo.
-        /// </summary>
-        [Test]
-        public void GivenAccountAndWithdraw_ThenExecute_ReturnsCorrectAmount()
+    /// <summary>
+    /// Verifica que el retiro de una cuenta actualiza correctamente el saldo.
+    /// </summary>
+    [Test]
+    public void GivenAccountAndWithdraw_ThenExecute_ReturnsCorrectAmount()
         {
             var account = new Account() { AccountBalance = 300 };
             decimal amount = 100;
@@ -19,12 +18,11 @@ namespace ATM.Domain.Tests
             new ATM(withdraw).Action();
             Assert.IsTrue(account.AccountBalance.Equals(200));
         }
-        [Test]
-        /// <summary>
-        /// Verifica que el depósito en una cuenta actualiza correctamente el saldo.
-        /// </summary>
-        [Test]
-        public void GivenAccountAndDeposit_ThenExecute_ReturnsCorrectAmount()
+    /// <summary>
+    /// Verifica que el depósito en una cuenta actualiza correctamente el saldo.
+    /// </summary>
+    [Test]
+    public void GivenAccountAndDeposit_ThenExecute_ReturnsCorrectAmount()
         {
             var account = new Account() { AccountBalance = 200 };
             decimal amount = 100;

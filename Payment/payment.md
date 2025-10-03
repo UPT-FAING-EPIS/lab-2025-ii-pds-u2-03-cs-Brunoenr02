@@ -26,3 +26,4 @@ IPaymentStrategy <|.. CreditCardPaymentStrategy
 IPaymentStrategy <|.. DebitCardPaymentStrategy
 
 ```
+mermaid.md

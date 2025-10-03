@@ -24,3 +24,4 @@ ICommand <|.. DepositCommand
 ICommand <|.. WithdrawCommand
 
 ```
+mermaid.md
